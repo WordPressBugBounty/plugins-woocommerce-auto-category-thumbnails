@@ -1,0 +1,1 @@
+# plugins-woocommerce-auto-category-thumbnails
